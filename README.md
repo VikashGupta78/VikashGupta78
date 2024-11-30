@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN STACK Developer from India, with insights in DSA and Machine Learning !.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning NextJS<br><br><br>💬 Ask me about react, dsa<br><br>📫 How to reach me vikashkg12@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1u5DSbRoWbrDqHiWDaHKgvkt5M8SdM4tA/view?usp=sharing<br><br>⚡ Fun fact I love to read manga, and play guitar.
+🌱 I’m currently learning NextJS<br><br><br>💬 Ask me about react, dsa<br><br>📫 How to reach me vikashkg12@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1u5DSbRoWbrDqHiWDaHKgvkt5M8SdM4tA/view?usp=sharing](https://drive.google.com/file/d/1SXIMonxVp67Qn_S5FM8BdxmApcloNBPR/view?usp=sharing)<br><br>⚡ Fun fact I love to play chess, and guitar.
 
 
 ## 🌐 Socials:
